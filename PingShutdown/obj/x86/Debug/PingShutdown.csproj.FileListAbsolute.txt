@@ -1,0 +1,16 @@
+T:\Programmieren\ServerTool\PingShutdown\PingShutdown\bin\Debug\PingShutdown.exe.config
+T:\Programmieren\ServerTool\PingShutdown\PingShutdown\bin\Debug\PingShutdown.exe.manifest
+T:\Programmieren\ServerTool\PingShutdown\PingShutdown\bin\Debug\PingShutdown.application
+T:\Programmieren\ServerTool\PingShutdown\PingShutdown\bin\Debug\PingShutdown.exe
+T:\Programmieren\ServerTool\PingShutdown\PingShutdown\bin\Debug\PingShutdown.pdb
+T:\Programmieren\ServerTool\PingShutdown\PingShutdown\obj\x86\Debug\ResolveAssemblyReference.cache
+T:\Programmieren\ServerTool\PingShutdown\PingShutdown\obj\x86\Debug\PingShutdown.Form1.resources
+T:\Programmieren\ServerTool\PingShutdown\PingShutdown\obj\x86\Debug\PingShutdown.Properties.Resources.resources
+T:\Programmieren\ServerTool\PingShutdown\PingShutdown\obj\x86\Debug\ResGen.read.1.tlog
+T:\Programmieren\ServerTool\PingShutdown\PingShutdown\obj\x86\Debug\ResGen.write.1.tlog
+T:\Programmieren\ServerTool\PingShutdown\PingShutdown\obj\x86\Debug\PingShutdown.TrustInfo.xml
+T:\Programmieren\ServerTool\PingShutdown\PingShutdown\obj\x86\Debug\PingShutdown.exe.manifest
+T:\Programmieren\ServerTool\PingShutdown\PingShutdown\obj\x86\Debug\PingShutdown.application
+T:\Programmieren\ServerTool\PingShutdown\PingShutdown\obj\x86\Debug\PingShutdown.exe
+T:\Programmieren\ServerTool\PingShutdown\PingShutdown\obj\x86\Debug\PingShutdown.pdb
+T:\Programmieren\ServerTool\PingShutdown\PingShutdown\obj\x86\Debug\PingShutdown.taskmanager.taskmanager.resources

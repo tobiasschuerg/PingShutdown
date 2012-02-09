@@ -1,0 +1,28 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PingShutdown.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">www.google.com</Value>
+    </Setting>
+    <Setting Name="ips" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;192.168.0.81&lt;/string&gt;
+  &lt;string&gt;192.168.0.82&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="countdownTime" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">300</Value>
+    </Setting>
+    <Setting Name="time1" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">04/26/2010 12:00:00</Value>
+    </Setting>
+    <Setting Name="time2" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">04/26/2010 12:01:00</Value>
+    </Setting>
+    <Setting Name="macaddresse" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00:27:0E:02:C0:8E</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
